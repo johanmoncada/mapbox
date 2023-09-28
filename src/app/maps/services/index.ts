@@ -1,1 +1,1 @@
-export { PlacesService } from './places.service';
+export { PlacesService } from '@appMapbox/maps/services/places.service';
